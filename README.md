@@ -1,2 +1,1 @@
-# zustand-playground
-Created with CodeSandbox
+# Zustand Playground
